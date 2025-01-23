@@ -6,11 +6,6 @@ Aplikacja do zarządzania projektami umożliwia użytkownikom tworzenie projekt�
 ## Wymagania
 - React Native zainstalowany na komputerze.
 
-### Środowisko deweloperskie:
-- IDE: Visual Studio Code.
-- React Native CLI lub Expo CLI.
-- Emulator Android/iOS lub fizyczne urządzenie do testów.
-
 ## Funkcjonalności
 ### 1. Tworzenie projektów:
    - Dodawanie nowego projektu z nazwą, opisem oraz datą rozpoczęcia i zakończenia.
@@ -22,11 +17,6 @@ Aplikacja do zarządzania projektami umożliwia użytkownikom tworzenie projekt�
 ### 3. Śledzenie postępów:
    - Wyświetlanie paska postępu projektu.
    - Oznaczanie zadań jako "Do zrobienia", "W toku", "Zakończone".
-
-## Architektura aplikacji
-- **UI Layer**: Interfejs użytkownika, wykorzystujący komponenty React Native.
-- **State Management**: Redux lub Context API.
-- **Data Layer**: Firebase Cloud Firestore jako główne repozytorium danych.
 
 ## Widoki aplikacji
 ### 1. Ekran główny:
